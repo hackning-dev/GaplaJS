@@ -1,2 +1,2 @@
-# gaplajs
+# GaplaJS
 This a JavaScript Framework.
