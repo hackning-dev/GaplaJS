@@ -1,0 +1,24 @@
+{
+  "name": "gaplajs",
+  "version": "1.0.0",
+  "description": "This is a JavaScript Framework discovered for performance.",
+  "main": "gapla.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbish/gaplajs.git"
+  },
+  "author": "Hackning <bishaldey@hackning.com> (Bishal Dey <bishaldey@hackning.com>)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devbish/gaplajs/issues"
+  },
+  "homepage": "https://github.com/devbish/gaplajs#readme",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "csso": "^3.5.1",
+    "dateformat": "^3.0.3"
+  }
+}
