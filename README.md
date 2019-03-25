@@ -1,4 +1,4 @@
 # GaplaJS
 A Frontend Framework discovered for performance.
 ## Contributing
-Hey contribute as much as you want!
+Hey contribute as much as possible!
