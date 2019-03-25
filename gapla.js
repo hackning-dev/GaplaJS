@@ -1,6 +1,6 @@
 /**
  * This is GaplaJS v1.0
- * A framework discovered for performance by Hackning.
+ * A Frontend Framework discovered for performance.
  * @version 1.0.0
  * @author  Hackning (Bishal Dey <bishaldey@hackning.com>)
  * @license LICENSE.md
